@@ -1,0 +1,3 @@
+.tooltip                                                  {cursor: pointer;}
+.tooltip-wrapper                                          {position: absolute; background: #ffffff; border:1px solid #cecece; max-width: 400px; box-shadow: 0 0 3px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.3); -moz-box-shadow: 0 0 3px rgba(0,0,0,0.3); -ms-box-shadow: 0 0 3px rgba(0,0,0,0.3); border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; line-height: 16px; padding: 10px; z-index: 99;}
+.tool-tip-text                                            {padding: 0 !!important; margin: 0 !!important;font-weight: normal; font-size: 11px; display: block;}
