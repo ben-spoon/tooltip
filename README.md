@@ -14,4 +14,4 @@ Simple javascript tooltip
 ```
 Will look something like:
 
-![](https://raw.github.com/ben-spoon/example.png)
+![](https://raw.github.com/ben-spoon/tooltip/master/example.png)
