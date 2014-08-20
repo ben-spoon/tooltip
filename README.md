@@ -16,3 +16,7 @@ Simple javascript tooltip
 Will look something like:
 
 ![](https://raw.github.com/ben-spoon/tooltip/master/example.png)
+
+### To Do
+* Make **actual** jQuery plugin. Not a script that runs on the document...
+* Make prototype - so you can create an instance of a plugin (like ```var tooltip = New Tooltip('.yourElement');```` or something
